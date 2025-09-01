@@ -2,6 +2,7 @@
 
 A playful p5.js sketch that simulates draggable fridge magnets on a virtual fridge.  
 Users can drag and rearrange random words to form sentences — just like real fridge poetry.
+Test it here: https://gibson33.github.io/FridgeMagnetFun/
 
 ## ✨ Features
 
